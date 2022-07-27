@@ -1,0 +1,3 @@
+https://finalprojectbo.atlassian.net/jira/software/projects/FPI/boards/1
+
+https://finalprojectbo.atlassian.net/wiki/spaces/FI/overview
